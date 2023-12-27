@@ -16,5 +16,5 @@ This typing game is a browser-based application designed to enhance typing skill
 ### Technical Implementation
 * Built using standard web technologies: HTML, CSS, and JavaScript.
 * Utilizes DOM manipulation for dynamic content updates and event handling for user interactions.
-* Implements a setInterval function for the countdown timer, enhancing the game's interactivity.
+* Implements a `setInterval` function for the countdown timer, enhancing the game's interactivity.
 
